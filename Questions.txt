@@ -1,0 +1,2 @@
+# Questions 
+Q.1) Write a progra to print 'Square Star Pattern'.

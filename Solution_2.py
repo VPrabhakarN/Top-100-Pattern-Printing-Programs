@@ -6,11 +6,14 @@
 *   *
 *****
 """
-l = 5
 
-for i in range(0, l) :
-    for j in range(0, l) :
-        if i == 0 or i == l-1 or j == 0 or j == l-1 :
+# Taking the input from the user 
+row = int (input("Enter the number of rows : "))
+colomn = int (input("Enter the number of colomns : "))
+
+for i in range(0, row) :
+    for j in range(0, colomn) :
+        if i == 0 or i == row-1 or j == 0 or j == colomn-1 :
             print("*", end="")
         else :
             print(" ", end="")  

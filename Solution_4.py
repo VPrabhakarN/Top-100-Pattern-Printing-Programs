@@ -1,4 +1,4 @@
-# Question : Write a program to print 'Rectangle Star Pattern.
+# Question : Write a program to print 'Rectangle Star Pattern'.
 
 """
 Docstring for Top-100-Pattern-Printing-Programs.Solution_3

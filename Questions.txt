@@ -2,4 +2,5 @@
 Q.1) Write a progra to print 'Square Star Pattern'.
 Q.2) Write a program to print 'Hollow Square Star Pattern'.
 Q.3) Write a program to print 'Rhombus Star Pattern'.
-Q.4) Write a program to print 'Hollow Rectangle Star Pattern'.
+Q.4) Write a program to print 'Rectangle Star Pattern'.
+Q.5) Write a program to print 'Hollow Rectangle Star Pattern'.

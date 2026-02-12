@@ -1,7 +1,7 @@
 # Question : Write a program to print 'Triangle Star Pattern'
 
 """
-Docstring for Top-100-Pattern-Printing-Programs.Solution_7
+Docstring for Top-100-Pattern-Printing-Programs.Solution_8
                 *
                 **
                 ***

@@ -9,3 +9,4 @@ Q.7) Write a program to print 'Mirrored Rhombus Star Pattern'
 Q.8) Write a program to print 'Triangle Star Pattern'
 Q.9) Write a program to print 'Pyramid Star Pattern'
 Q.10) Write a program to print 'Hollow Pyramid Star Pattern'. 
+Q.11) Write a program to print 'Inverted Pyramid Star Pattern'. 

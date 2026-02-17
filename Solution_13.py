@@ -12,17 +12,16 @@ Docstring for Top-100-Pattern-Printing-Programs.Solution_13
 """
 
 # Taking an input from the user
-size = int(input("Enter the size : ")) # Number of rows
+size = int(input("Enter the highest peak : ")) # highest peak
 
 # Using for loop 
-for i in range(size) :
-    if size//2 >= i :
-        for j in range(i+1) :
+for i in range(0, size*2-1) :
+    if i < size :
+        for j in range(0, i+1):
             print("*", end="")
     else :
-        for k in range(size-i, 0, -1) :
-            print("*", end="")
-            
+        for k in range((2*size)-i-1, 0, -1) :
+            print("*", end="")      
     print()
     
     

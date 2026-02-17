@@ -13,5 +13,5 @@ for i in range(size) :
             print("*", end="")
             
     print()
-        
-        
+    
+    

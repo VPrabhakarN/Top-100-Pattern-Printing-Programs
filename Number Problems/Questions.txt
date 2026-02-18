@@ -1,0 +1,2 @@
+# Questions 
+Q.1) Write a program to print 'Basic Square Number Pattern'.

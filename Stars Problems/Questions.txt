@@ -12,4 +12,3 @@ Q.10) Write a program to print 'Hollow Pyramid Star Pattern'.
 Q.11) Write a program to print 'Inverted Pyramid Star Pattern'. 
 Q.12) Write a program to print 'Inverted Hollow Pyramid Star Pattern'. 
 Q.13) Write a program to print 'Half Diamond Star Pattern'. 
-Q.14) Write a program to print 'Basic Square Number Pattern'.

@@ -1,7 +1,7 @@
 # Question : Write a program to print 'Basic Square Number Pattern'. 
 
 """
-Docstring for Top-100-Pattern-Printing-Programs.Number Problems.Solution_1
+Docstring for Top-100-Pattern-Printing-Programs.Number Problems.Solution_14
                 1 1 1 1 1
                 1 1 1 1 1
                 1 1 1 1 1

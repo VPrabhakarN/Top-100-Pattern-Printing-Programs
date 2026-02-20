@@ -1,3 +1,4 @@
 # Questions 
 Q.14) Write a program to print 'Basic Square Number Pattern'.
 Q.15) Write a program to print 'Basic Square incrementing Pattern'.
+Q.16) Write a program to print 'Basic Right Triangle Number Pattern'.

@@ -3,4 +3,4 @@ Q.14) Write a program to print 'Basic Square Number Pattern'.
 Q.15) Write a program to print 'Basic Square incrementing Pattern'.
 Q.16) Write a program to print 'Basic Right Triangle Number Pattern'.
 Q.17) Write a program to print 'Basic Right Triangle Number Pattern (Inverted)'.
-Q.17) Write a program to print 'Basic incrementing Triangle Pattern initialised = 3'.
+Q.18) Write a program to print 'Basic incrementing Triangle Pattern initialised = 3'.

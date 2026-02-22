@@ -14,3 +14,4 @@ for i in range(size, 0, -1) :
         num -= 1
     print()
     
+ 

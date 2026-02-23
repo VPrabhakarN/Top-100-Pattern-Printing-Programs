@@ -1,5 +1,12 @@
 # Question : Write a program to print 'Basic incrementing Triangle Pattern initialized = 3'.
 
+"""
+           6666
+           555
+           44
+           3
+"""
+
 # Taking an input from the user 
 size = int(input("Enter the size : "))
 

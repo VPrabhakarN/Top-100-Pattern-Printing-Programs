@@ -6,4 +6,4 @@ Q.17) Write a program to print 'Basic Right Triangle Number Pattern (Inverted)'.
 Q.18) Write a program to print 'Basic incrementing Triangle Pattern initialised = 3'.
 Q.19) Write a program to print 'Basic incrementing Triangle Pattern initialised = 3'(Inverted).
 Q.20) Write a program to print 'Basic double incrementing Triangle Pattern initialised = 3'.
-Q.21) Write a program to print 'Basic incrementing Diamond Pattern(Inverted) initialised = 3'.
+Q.21) Write a program to print 'Basic incrementing Half Diamond Pattern(Inverted) initialised = 3'.

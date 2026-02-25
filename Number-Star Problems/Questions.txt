@@ -1,0 +1,2 @@
+# Questions :
+Q.22) Write a program to print 'Basic incrementing Squared Number-Star Pattern'.  
